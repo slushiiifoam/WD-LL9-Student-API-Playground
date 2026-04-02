@@ -169,6 +169,15 @@ button:active {
   border-left: 4px solid #667eea;
 }
 
+.fox-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
 /* Animations */
 @keyframes fadeInUp {
   from {
